@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.5,
         0.7
       ],
       "via_dimensions": [
@@ -384,7 +385,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../PCB/PCB Final/PCB Final un canal/PCB Final un canal.dsn",
       "step": "",
       "vrml": ""
     },
