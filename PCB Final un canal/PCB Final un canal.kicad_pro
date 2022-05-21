@@ -385,7 +385,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3D Model/PCB Final un canal.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
