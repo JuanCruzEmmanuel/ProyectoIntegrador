@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "../../../PCB/PCB Final/PCB Final un canal/PCB Final un canal.dsn",
-      "step": "",
+      "step": "PCB Final un canal.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

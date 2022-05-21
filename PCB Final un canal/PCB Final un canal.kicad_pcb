@@ -1033,6 +1033,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W10.16mm.wrl"
+      (offset (xyz 0 0 4))
+      (scale (xyz 0.8 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" (layer "F.Cu")
@@ -1801,7 +1806,7 @@
   (dimension (type aligned) (layer "B.Cu") (tstamp bc408f2c-2338-4a2e-9d30-e90fd4d4f487)
     (pts (xy 82.75 19) (xy 82.75 69))
     (height -6.15)
-    (gr_text "50,0000 mm" (at 87.1 44 90) (layer "B.Cu") (tstamp fdd41a68-206a-4076-b64a-8b7633d428d6)
+    (gr_text "50,0000 mm" (at 87.1 44 90) (layer "B.Cu") (tstamp bc408f2c-2338-4a2e-9d30-e90fd4d4f487)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 4))
