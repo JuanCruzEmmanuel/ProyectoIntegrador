@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\juanc\Desktop\ProyectoIntegrador\PCB dos canales\PCB dos canales.kicad_sch</source>
+    <date>22/5/2022 19:58:36</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCB dos canales.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x4.5</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>679935ea-feae-4267-96f8-5ea7e2c13050</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f885b75c-2158-4eee-8871-bea217918843</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34d0a2f9-90e7-4007-a265-32c7939f1703</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>220nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dc2fe1b-7918-4296-b486-ba00d4220e76</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3f07df4-3afe-4f7c-86c3-cb1286b4f99c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>518adf84-338a-4b80-a399-73e4fced7b7d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35f97091-c747-4dcd-8a23-fa2f0dfdc7f8</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5f2c38a-6ed5-4d30-ba7b-fa665d8d2b76</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60ce7586-4ade-43c5-bb55-bb889a6cbfed</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff0af08e-ee82-4883-9c97-98d5fe94670c</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25b8529f-de0b-41ea-9eaf-944a1e96fb29</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cd33b68-2a44-4da5-9146-87b4c83f6df4</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>220nF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06a14ff3-8f98-4975-a6ff-2c27e2154e34</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d7d6f98-87de-44c1-b0f5-80a5f660afa8</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b541f9b4-5773-4060-b9f9-cbd1db2024f0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8346b611-7f92-40d5-8d2c-1d2d3001f319</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1505d396-c5d6-4538-96e0-4c514099547b</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9247e970-aeec-403c-b2fb-5f551d7f1986</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0772a0e6-515e-411f-9a17-d7b4cff61287</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cee590d-2c8e-48a2-a6a6-a2cf04b7b4f5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3.3M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bad0a20-db36-47c8-bdea-88fb0a81427d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2.2M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0e0b1ec-a224-4911-80b0-3b288455780f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>39K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e311341b-ec5e-4575-80a4-9ac319caed8b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0705a4b8-191a-481c-9642-e30d4f8b7703</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57f469cd-7997-4805-9d0b-069869d473b0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>39K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d490e3d5-0336-416c-9754-43787a968f6d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>550cc497-1483-4f6c-add5-00a5adfccec9</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5163fcd7-88ea-4785-85d1-e3f73033e974</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>39K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd06b46b-01d0-46c6-a57f-052554ce939d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>8K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ea74ea7-2595-42c0-8c33-062eb4bbb417</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e6733f5-4606-441d-9ef5-845afb9cbe98</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>470K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da584ae1-e1a2-4ce6-b87e-3593b0d5a809</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>39K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f762014-b27f-4ea2-8d59-3315be89a60c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>8K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5eb055d-d792-407e-be11-cdfb358264b5</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8bc358b-84f3-4578-b929-dd358c52b3e8</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>470K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dd65d05-0655-46d6-a5a1-eb9b5a17fc22</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2651583-d3a5-4c49-b27c-2cdef853a6ab</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4810a4f-53e8-4a45-866c-a61b1f9e9cb9</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8286ca79-5dca-4c0d-bd28-dcb385353752</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>70K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c38abe20-d77a-41f6-b480-ee4148e40904</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50240dc4-7f52-4f26-946a-933b97d7a408</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>560K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c92a1408-2c4a-4f06-b6bc-e146aa8ff111</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>1.5K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf0bb8c0-f642-455f-89b1-4c8ae7f39eb9</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>70K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69506fd9-c217-424c-809c-dfd5f5e64e57</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69adee7c-3b19-4482-a928-9ec7a57f69ef</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a10153-4934-4cbc-ad6f-3617c667d63e</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c105211-fcbb-46ef-9e8a-e102167b6a79</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>1.5K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bede3ece-ffbf-4514-b12a-7a3e9cef8bf3</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>560K</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44cf8a3b-0a5b-4f7e-867a-1cf352af2979</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1.5K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a907062-f9a9-45b4-b3a9-85b763e3ec8b</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>710593bb-ca6d-4efb-a8f4-aef0511d0cb8</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>1.5K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee85443c-fdcd-49d3-be20-47e484cb59a1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AD620</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</datasheet>
+      <libsource lib="Amplifier_Instrumentation" part="AD620" description="Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>040d4535-d616-4e22-85b8-8c5ab793fbf0</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AD620</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</datasheet>
+      <libsource lib="Amplifier_Instrumentation" part="AD620" description="Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3205ff2-4033-4e46-a4dc-bddf5479555b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LM324</value>
+      <footprint>Package_SO:SO-14_3.9x8.65mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3f1c78a-59ad-4654-8399-b03b622c5a37 b78957c1-d667-4d5c-85d2-989d524d1809 ca9d9e66-1006-4997-931c-0d5b3447030e ba12b673-2d35-4c47-858d-d6fe60ef2cc8 8ef50d9e-64f5-4e17-8519-d20a50206f12</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LM324</value>
+      <footprint>Package_SO:SO-14_3.9x8.65mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7a82cbe-3e92-4254-961c-47c2048fa6a2 a210fe35-e048-48c0-955b-1b4847f7fa1f ece9f366-90c2-4203-9dd7-b9adc8043262 1db5ee0a-1faa-4892-be81-e1af9e9280d7</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LM324</value>
+      <footprint>Package_SO:SO-14_3.9x8.65mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5271764-809d-4ebf-8b06-f9869233f6fd a0aea65b-3620-4f22-a59d-984ed0b4a8e8 35a53559-4348-4b9e-a9f3-9b8fcaa6ac58 ca327498-f746-4066-80ba-8561f8389f86 04d4d05a-4ea0-404d-857e-7c937f533454</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>LM324</value>
+      <footprint>Package_SO:SO-14_3.9x8.65mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>726806ed-9ecf-487f-9bcb-ef256a702227 709396e5-6240-4821-b5eb-fd4fa9dade66 aac2f47c-c33f-4128-abbc-7b16339a7d62 f726036e-2f34-488b-bca0-e6e6878967a2 207657ab-a74c-41c0-bb3b-aebaa1e90c77</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>LM324</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="LM324" description="Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCB dos canales.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>038193df-22dc-4c3e-9d0c-de01c406c32b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Instrumentation" part="AD620">
+      <description>Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD620</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Rg" type="passive"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="Vs-" type="power_in"/>
+        <pin num="5" name="Ref" type="passive"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="Vs+" type="power_in"/>
+        <pin num="8" name="Rg" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="LM324">
+      <description>Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM324</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm2902-n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Instrumentation">
+      <uri>D:\Archivos de programas\kicad6.0\6.0\share\kicad\symbols\/Amplifier_Instrumentation.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>D:\Archivos de programas\kicad6.0\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>D:\Archivos de programas\kicad6.0\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Archivos de programas\kicad6.0\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="Vs+" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="Vs+" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="Vs-" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="Vs-" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U7" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="ElecNegHor">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="ElecNegVer">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="ElecPositHor">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="ElecPositVer">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="Ref" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="Ref" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(R32-Pad2)">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(U3-Pad2)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(U3-Pad5)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(U3-Pad12)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(U3-Pad13)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="14" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(U4-Pad3)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(U4-Pad5)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(U4-Pad6)">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U4-Pad14)">
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U4" pin="14" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U5-Pad2)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U5-Pad5)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(U5-Pad9)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U5-Pad12)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U5-Pad13)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="14" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(U6-Pad5)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U6-Pad13)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U6" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="7" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(U6-Pad14)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U6" pin="14" pintype="output"/>
+    </net>
+    <net code="29" name="OUTHor1">
+      <node ref="U1" pin="6" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="30" name="OUTHor2">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+    </net>
+    <net code="31" name="OUTHor3">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="7" pintype="output"/>
+    </net>
+    <net code="32" name="OUTHor4">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pintype="output"/>
+    </net>
+    <net code="33" name="OUTVer1">
+      <node ref="U2" pin="6" pintype="output"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="34" name="OUTVer2">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="output"/>
+    </net>
+    <net code="35" name="OUTVer3">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="7" pintype="output"/>
+    </net>
+    <net code="36" name="OUTVer4">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U5" pin="8" pintype="output"/>
+    </net>
+    <net code="37" name="OutNegHor">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="38" name="OutNegVer">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="OutPositHor">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="40" name="OutPositVer">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="41" name="Ref">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="RgHor1">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="43" name="RgHor2">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="44" name="RgVer1">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="45" name="RgVer2">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="Rg" pintype="passive"/>
+    </net>
+    <net code="46" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="-" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U4-Pad10)">
+      <node ref="U4" pin="10" pinfunction="+" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U6-Pad1)">
+      <node ref="U6" pin="1" pintype="output+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U6-Pad2)">
+      <node ref="U6" pin="2" pinfunction="-" pintype="input+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U6-Pad3)">
+      <node ref="U6" pin="3" pinfunction="+" pintype="input+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U6-Pad8)">
+      <node ref="U6" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U6-Pad9)">
+      <node ref="U6" pin="9" pinfunction="-" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U6-Pad10)">
+      <node ref="U6" pin="10" pinfunction="+" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
