@@ -1,0 +1,7 @@
+American Academy of Ophthalmology (2008), Neuroftalmologia. Editorial Elsevier - Libro de la doc
+
+Deliyannis, T., Yichuang, S.,  Fidler, J. K.,(1999), Continuous-Time Active Filter Design. Boca Raton: CRC Press LLC - libro filtros
+
+Heo, J.,Yoon, H., Suk Park, K. (2017). A novel wearable forehead EOG measurement system for human computer interfaces. Multidisciplinary Digital Publishing Institute -EOG
+
+Kirchin, C. Counts, L., (2006). A designer’s guide to instrumentation amplifiers (3ra edicion). Analog Device
